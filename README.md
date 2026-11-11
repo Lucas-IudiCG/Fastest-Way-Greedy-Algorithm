@@ -15,7 +15,7 @@ Este projeto aborda o estudo e a implementação prática de estratégias gulosa
 
 ## 🛠️ Stack Tecnológica
 
-* **Linguagem:** Python
+* **Linguagem:** C
 * **Conceitos de Engenharia:** Análise de Complexidade de Algoritmos, Estruturas de Dados Eficientes, Ordenação e Heurísticas de Decisão
 
 ---
